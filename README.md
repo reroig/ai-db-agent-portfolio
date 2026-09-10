@@ -38,6 +38,12 @@ User → Web UI → FastAPI API → AI layer → Tenant DB(s)
 
 - Live demo: https://app.dbeespot.com
 - Screenshots: 
+![Login](docs/screenshots/Login.png)
+![Chat](docs/screenshots/Chat.png)
+![Dashboard](docs/screenshots/Dashboard.png)
+![Reports](docs/screenshots/Reports.png)
+![Admin](docs/screenshots/Admin.png)
+![Settings](docs/screenshots/Settings.png)
 
 ## My role
 
