@@ -1,4 +1,3 @@
-@"
 # AI DB Agent
 
 Natural-language business intelligence over your databases — ask questions in plain language, get answers and reports.
@@ -47,4 +46,3 @@ Solo builder — product design, backend, AI integration, auth/billing, and depl
 
 - GitHub: https://github.com/reroig
 - Email: reroig@gmail.com
-"@ | Set-Content -Path README.md -Encoding utf8
